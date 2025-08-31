@@ -24,6 +24,10 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 6.Identify best-performing combination (e.g., Role-Based on ChatGPT, or Few-Shot on Claude).
 
+## Blockchain:
+
+<img width="2880" height="2880" alt="image" src="https://github.com/user-attachments/assets/f0cb26d1-ed19-44a2-b81c-06a427360ee5" />
+
 ### Summary of The Basics of Blockchain Technology -ChatGPT:
 Blockchain is a digital system that securely records and stores transactions across a network of computers. Unlike traditional databases controlled by a single authority, blockchain is decentralized, meaning everyone in the network shares the same copy of data. Transactions are grouped into “blocks,” which are linked together in a “chain,” making them transparent and very difficult to alter. This design ensures security, trust, and efficiency without needing middlemen. One of the most popular uses of blockchain is cryptocurrencies like Bitcoin and Ethereum, which allow safe peer-to-peer money transfers without banks. Another practical use is in supply chain management—companies such as Walmart use blockchain to trace food products from farm to store, improving safety and reducing fraud. Beyond finance and logistics, blockchain is also being explored in areas like digital voting, healthcare records, and smart contracts.
 
